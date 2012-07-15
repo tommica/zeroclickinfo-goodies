@@ -1,5 +1,5 @@
 package DDG::Goodie::Tetris;
-# ABSTRACT: Generates an tetris piece.
+# ABSTRACT: Generates an tetris piece .
 
 use DDG::Goodie;
 
